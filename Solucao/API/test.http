@@ -1,0 +1,13 @@
+### http:/localhost:5134
+
+### Cadastrar Aluno
+POST http://localhost:5134/api/aluno/cadastrar
+
+### Listar Alunos
+GET http://localhost:5134/api/aluno/listar
+
+### Cadastrar IMC
+POST http:/localhost:5134/api/imc/cadastrar
+
+### Listar IMC 
+GET http://localhost:5134/api/imc/listar
